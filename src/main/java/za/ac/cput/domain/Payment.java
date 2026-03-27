@@ -3,7 +3,7 @@ package za.ac.cput.domain;
 
 /*
  * Class Name: Payment
- * Description: Payment model class
+ * Description: Payment RentalCarApp class
  * Author: Lucky July Twala (231242840)
  * Date: 13 March 2026
  */

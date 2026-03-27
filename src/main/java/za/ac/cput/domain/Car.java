@@ -4,7 +4,7 @@ package za.ac.cput.domain;
 
 /*
  * Class Name: Car
- * Description: Car model class
+ * Description: Car RentalCarApp class
  * Author: Qhubekani Shandu(231316267)
  * Date: 13 March 2026
  */

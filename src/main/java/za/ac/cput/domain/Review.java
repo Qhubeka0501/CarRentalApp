@@ -2,7 +2,7 @@ package za.ac.cput.domain;
 
 /*
  * Class Name: Review
- * Description: Review model class
+ * Description: Review  CarRentalApp class
  * Author: Alphonsine Ningabiye(230426581)
  * Date: 13 March 2026
  */

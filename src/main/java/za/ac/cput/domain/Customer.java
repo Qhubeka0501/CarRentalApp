@@ -3,7 +3,7 @@ package za.ac.cput.domain;
 
 /*
  * Class Name: Customer
- * Description: Customer model class
+ * Description: Customer RentalApp class
  * Author: Avuyile Twesha (2040763394)
  * Date: 13 March 2026
  */

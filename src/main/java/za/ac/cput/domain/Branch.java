@@ -3,7 +3,7 @@ package za.ac.cput.domain;
 
 /*
  * Class Name: Branch
- * Description: Branch model class
+ * Description: Branch RentalCar class
  * Author: Sive Mdali(2405108252)
  * Date: 13 March 2026
  */
