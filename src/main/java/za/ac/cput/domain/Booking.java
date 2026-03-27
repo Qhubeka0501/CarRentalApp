@@ -5,7 +5,7 @@ import java.time.LocalTime;
 
 /*
  * Class Name: Booking
- * Description: Employee model class
+ * Description: Employee RentalCarApp class
  * Author: Alphonsine Ningabiye(230426581)
  * Date: 13 March 2026
  */
