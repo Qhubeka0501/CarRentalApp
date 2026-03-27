@@ -10,6 +10,15 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/*
+ * Class Name: BookingRepositoryTest
+ * Description: Booking Repository Test class
+ * Author: Alphonsine Ningabiye(230426581)
+ * Date: 26 March 2026
+ */
+
+
+
 class BookingRepositoryTest {
 
     @Test

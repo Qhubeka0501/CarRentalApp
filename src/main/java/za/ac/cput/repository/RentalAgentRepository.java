@@ -5,6 +5,14 @@ import za.ac.cput.domain.RentalAgent;
 import java.util.HashMap;
 import java.util.*;
 
+/*
+ * Class Name: PaymentRepository
+ * Description: Payment Repository class
+ * Author: Lucky July Twala (231242840)
+ * Date: 22 March 2026
+ */
+
+
 public class RentalAgentRepository {
     // Simulate data persistence
     private Map<String, RentalAgent> agentMap = new HashMap<>();

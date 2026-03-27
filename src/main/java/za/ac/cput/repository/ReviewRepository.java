@@ -6,6 +6,14 @@ import za.ac.cput.domain.Review;
 import java.util.ArrayList;
 import java.util.List;
 
+
+/*
+ * Class Name: Review Repository
+ * Description: Review Repository class
+ * Author: Alphonsine Ningabiye(230426581)
+ * Date: 22 March 2026
+ */
+
 public class ReviewRepository {
     private List<Review> reviews = new ArrayList<>();
 

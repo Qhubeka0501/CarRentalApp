@@ -5,6 +5,14 @@ import org.junit.jupiter.api.Test;
 import za.ac.cput.domain.Payment;
 
 
+/*
+ * Class Name: PaymentFactoryTest
+ * Description: Payment Test class
+ * Author: Lucky July Twala (231242840)
+ * Date: 26 March 2026
+ */
+
+
 class PaymentFactoryTest {
 
     @Test

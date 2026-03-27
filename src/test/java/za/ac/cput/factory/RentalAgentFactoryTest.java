@@ -6,6 +6,13 @@ import za.ac.cput.domain.RentalAgent;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/*
+ * Class Name: RentalAgentTest
+ * Description: RentalAgent Test class
+ * Author: Lucky July Twala (231242840)
+ * Date: 26 March 2026
+ */
+
 class RentalAgentFactoryTest {
 
     @Test

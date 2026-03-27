@@ -6,6 +6,15 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.*;
 
+/*
+ * Class Name: PaymentRepository
+ * Description: Payment Repository class
+ * Author: Lucky July Twala (231242840)
+ * Date: 22 March 2026
+ */
+
+
+
 public class PaymentRepository {
     // Simulate data persistence
     private Map<String, Payment> paymentMap = new HashMap<>();

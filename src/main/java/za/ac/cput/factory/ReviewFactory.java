@@ -2,6 +2,14 @@ package za.ac.cput.factory;
 
 import za.ac.cput.domain.Review;
 
+
+/*
+ * Class Name: ReviewFactory
+ * Description: Review  Factory class
+ * Author: Alphonsine Ningabiye(230426581)
+ * Date: 16 March 2026
+ */
+
 public class ReviewFactory {
     public static Review createReview(String reviewId,
                                       String customerId,

@@ -5,6 +5,13 @@ import za.ac.cput.domain.Branch;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/*
+ * Class Name: BranchFactoryTest
+ * Description: Branch Tes class
+ * Author: Sive Mdali(2405108252)
+ * Date: 26 March 2026
+ */
+
 class BranchFactoryTest {
     @Test
     void createBranch() {

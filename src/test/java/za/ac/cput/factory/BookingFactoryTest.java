@@ -9,6 +9,14 @@ import java.time.LocalTime;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/*
+ * Class Name: BookingFactoryTest
+ * Description: Booking Test class
+ * Author: Alphonsine Ningabiye(230426581)
+ * Date: 26 March 2026
+ */
+
+
 class BookingFactoryTest {
 
     //  VALID TEST
