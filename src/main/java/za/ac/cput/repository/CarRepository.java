@@ -7,6 +7,14 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/*
+ * Class Name: CarRepository
+ * Description: Car Repository class
+ * Author: Qhubekani Shandu(231316267)
+ * Date: 22 March 2026
+ */
+
+
 public class CarRepository {
 
     // In-memory storage (key = carId)

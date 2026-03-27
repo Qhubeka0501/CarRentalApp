@@ -1,5 +1,13 @@
 package za.ac.cput.domain;
 
+
+
+/*
+ * Class Name: Car
+ * Description: Car model class
+ * Author: Qhubekani Shandu(231316267)
+ * Date: 13 March 2026
+ */
 public class Car {
     private final String carId;
     private final String model;

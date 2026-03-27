@@ -1,5 +1,12 @@
 package za.ac.cput.domain;
 
+
+/*
+ * Class Name: Branch
+ * Description: Branch model class
+ * Author: Sive Mdali(2405108252)
+ * Date: 13 March 2026
+ */
 public class Branch {
     private final String branchId;
     private final String branchName;

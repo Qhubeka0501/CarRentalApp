@@ -3,6 +3,13 @@ package za.ac.cput.domain;
 import java.time.LocalDate;
 import java.time.LocalTime;
 
+/*
+ * Class Name: Booking
+ * Description: Employee model class
+ * Author: Alphonsine Ningabiye(230426581)
+ * Date: 13 March 2026
+ */
+
 public class Booking {
     private String bookingId;
     private String customerId;

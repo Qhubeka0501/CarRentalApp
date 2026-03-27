@@ -5,6 +5,14 @@ import za.ac.cput.domain.Booking;
 import java.util.ArrayList;
 import java.util.List;
 
+
+/*
+ * Class Name: Booking Repository
+ * Description: Booking Repository class
+ * Author: Alphonsine Ningabiye(230426581)
+ * Date: 22 March 2026
+ */
+
 public class BookingRepository {
     private final List<Booking> bookings = new ArrayList<>();
 

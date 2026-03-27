@@ -2,6 +2,17 @@ package za.ac.cput.factory;
 
 import za.ac.cput.domain.RentalAgent;
 
+
+/*
+ * Class Name: RentalAgentFactory
+ * Description: RentalAgentFactory
+ * Author: Lucky July Twala (231242840)
+ * Date: 16  March 2026
+ */
+
+
+
+
 public class RentalAgentFactory {
     public static RentalAgent createAgent(String agentId, String name, String email, String phoneNumber) {
         // Validate input

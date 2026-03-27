@@ -10,6 +10,14 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+
+/*
+ * Class Name: BranchRepositoryTest
+ * Description: Branch Repository Test class
+ * Author: Sive Mdali(2405108252)
+ * Date: 26 March 2026
+ */
+
 class BranchRepositoryTest {
 
     private BranchRepository repository;

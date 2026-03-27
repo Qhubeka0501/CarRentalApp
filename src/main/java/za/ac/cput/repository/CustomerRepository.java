@@ -5,6 +5,13 @@ import za.ac.cput.domain.Customer;
 import java.util.HashSet;
 import java.util.Set;
 
+/*
+ * Class Name: CustomerRepository
+ * Description: Customer Repository class
+ * Author: Avuyile Twesha (2040763394)
+ * Date: 22 March 2026
+ */
+
 public class CustomerRepository {
 
 

@@ -6,6 +6,14 @@ import za.ac.cput.factory.CustomerFactory;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/*
+ * Class Name: CustomerRepository Test
+ * Description: Customer Reposiotry Test
+ * Author: Avuyile Twesha (2040763394)
+ * Date: 26 March 2026
+ */
+
+
 class CustomerRepositoryTest {
 
     private static CustomerRepository repository = CustomerRepository.getRepository();

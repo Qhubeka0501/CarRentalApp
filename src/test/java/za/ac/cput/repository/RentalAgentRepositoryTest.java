@@ -9,6 +9,14 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/*
+ * Class Name: RentalAgentRepository Test
+ * Description: RentalAgent Repository class
+ * Author: Lucky July Twala (231242840)
+ * Date: 26 March 2026
+ */
+
+
 class RentalAgentRepositoryTest {
 
     private RentalAgentRepository repository;

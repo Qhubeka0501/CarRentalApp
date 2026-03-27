@@ -3,6 +3,13 @@ package za.ac.cput.factory;
 import za.ac.cput.domain.Payment;
 import za.ac.cput.domain.RentalAgent;
 
+/*
+ * Class Name: PaymentFactory
+ * Description: Payment Factory class
+ * Author: Lucky July Twala (231242840)
+ * Date:   16 March 2026
+ */
+
 public class PaymentFactory {
     public static Payment createPayment(String paymentId, double amount, String paymentMethod, String paymentDate) {
         // Optional: add validation here
